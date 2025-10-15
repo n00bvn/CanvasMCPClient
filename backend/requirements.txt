@@ -9,7 +9,7 @@ python-jose[cryptography]==3.3.0
 passlib[bcrypt]==1.7.4
 aiofiles==23.2.1
 python-dotenv>=1.1.0
-cryptography==42.0.8
+cryptography==44.0.1
 httpx>=0.28.1
 websockets>=13.0.0
 openai>=1.0.0
